@@ -4,7 +4,7 @@
 Study React!
 
 ## Progress
-- Chapter 10 | 2018-08-16
+- Chapter 10 | 2018-08-16 ~ 2018-08-20
 
 ## Reference
 - [리액트를 다루는 기술](http://www.gilbut.co.kr/book/bookView.aspx?bookcode=BN002044&page=1&TF=T), 김민준, 길벗 (2018)
