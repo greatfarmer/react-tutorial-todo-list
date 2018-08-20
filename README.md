@@ -3,6 +3,8 @@
 
 Study React!
 
+![todo-list](src/images/todo-list.png)
+
 ## Progress
 - Chapter 10 | 2018-08-16 ~ 20
 - Chapter 11 | 2018-08-20
