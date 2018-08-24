@@ -8,6 +8,7 @@ Study React!
 ## Progress
 - Chapter 10 | 2018-08-16 ~ 20
 - Chapter 11 | 2018-08-20
+- Chapter 14 | 2018-08-21 ~ 24
 
 ## Quick Start
 ### To run locally:
